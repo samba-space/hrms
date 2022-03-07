@@ -1,6 +1,6 @@
-package com.samba.hrms.repository;
+package com.samba.hrms.member.repository;
 
-import com.samba.hrms.domain.Member;
+import com.samba.hrms.member.domain.Member;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

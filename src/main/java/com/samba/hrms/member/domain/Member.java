@@ -1,5 +1,6 @@
-package com.samba.hrms.domain;
+package com.samba.hrms.member.domain;
 
+import com.samba.hrms.vacation.domain.Vacation;
 import lombok.Getter;
 
 import javax.persistence.*;
